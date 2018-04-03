@@ -25,10 +25,10 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 #sidebar links
 email: chul2.park@gmail.com
 phone: 226 868 xxxx
-website: fusionjz.github.com #do not add http://
+website: fusionjz.github.io #do not add http://
 linkedin: chulhee-park
 github: fusionjz
-twitter: '@webjeda'
+twitter: fusionjz
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
